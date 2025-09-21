@@ -42,5 +42,5 @@ A full-stack Retail Point of Sale (POS) and Inventory Management system built fo
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/retail-pos-inventory.git
+   git clone https://github.com/01-Madhu/retail-pos-inventory.git
    cd retail-pos-inventory
